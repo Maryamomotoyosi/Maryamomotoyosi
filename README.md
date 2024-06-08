@@ -1,8 +1,8 @@
 - 👋 Hi, I’m @Maryamomotoyosi
-- 👀 I’m interested in ... Data and Visualization
+- 👀 I’m interested in ... Data Analysis and Visualization
 - 🌱 I’m currently learning ... Python
 - 💞️ I’m looking to collaborate on ... Data analysis projects
-- 📫 How to reach me ... maryamomotoyosi481@gmail.com, +234 8180969043
+- 📫 How to reach me ... maryamomotoyosi481@gmail.com
 - 😄 Pronouns: ... HER/SHE
 - ⚡ Fun fact: ... I love to try new things
 
